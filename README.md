@@ -19,8 +19,9 @@ A web-based **Advanced Calculator** built with HTML, CSS, and JavaScript. This c
 ---
 ## 📸 Screenshot
 
-![Calculator Screenshot](<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/fe582566-0844-417e-be77-fd2cd1294863" />
-)
+![Calculator Screenshot](## 📸 Screenshot
+
+![Calculator Screenshot](<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/fe582566-0844-417e-be77-fd2cd1294863" />)
 
 ## 🚀 Getting Started
 
